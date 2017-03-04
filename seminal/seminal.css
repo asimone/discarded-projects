@@ -1,0 +1,61 @@
+/* 
+It's pretty light on the CSS. I have no doubt I could clean it up more. The hope moving forward is an "only the essentials" approach to a text-centered design so the loading times will be lightning fast. I want people reading, not looking at animated GIFs. 
+*/
+
+footer,header,html,p {display: block;}
+
+a {color: #E90707;}
+
+body {line-height: 1.4;}
+
+#wrap { 
+	width: 900px; 
+	margin: 0 auto; 
+}
+
+#center {margin-right: 25px;}
+
+h1#hello {
+font-size: 245px;
+font-family: Georgia;
+margin-bottom: -95px;
+color: #E90707;
+margin-top: -35px;
+text-align: center;
+}
+
+h2 {font-family: Lucinda Grande; color: #444; font-size: 40px;}
+
+.content {
+width: 660px;
+margin: 0 auto;
+}
+
+.description {
+width: 615px;
+margin: 0px auto;
+font-size: 36px;
+font-family: Lucinda Grande;
+color: #444;
+text-align: center;
+margin-top: 35px;
+line-height: 130%;
+}
+
+#lazymarginthingy {margin-top: 25px; margin-bottom: 25px;}
+
+.description p {margin-top: 10px; margin-bottom: 10px;}
+
+footer {margin-bottom: 20px;}
+
+/* The Conscidence of a Hacker */
+
+#conscience {font-family: Lucinda Grande; font-size: 24px; line-height: 150%; color: #444;}
+
+footer p {text-align: center; font-family: Lucinda Grande; font-size: 20px; color: #2E2020; font-weight: 500;padding-left: 25px; margin-right: 25px;}
+
+header#conscience {width: 615px; margin: 0px auto; text-align: center; border-top: 2px solid #A5A5A5; border-bottom: 2px solid #A5A5A5; margin-top: 10px; }
+
+.content-conscience {width: 615px; margin: 0px auto;}
+
+.home-link {text-align: center; important!}
